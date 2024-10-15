@@ -28,3 +28,6 @@ Film Inventory: Details about available movies, genres, and rental durations.
 Customer Information: Data on customer demographics and rental behavior.
 Payments: Records of transactions and revenue details.
 
+### Tableau Link
+https://public.tableau.com/app/profile/surabhi.seth/viz/DataImmersion_SQL_FinalProject/Story1?publish=yes
+
